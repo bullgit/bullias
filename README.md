@@ -1,5 +1,9 @@
 bullias
 =======
+A collection of git command alias for gitches.
+
+# How to ?
+Just open `.gitconfig`
 
 A list of aliases for gitches
 
