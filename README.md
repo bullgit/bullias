@@ -7,14 +7,18 @@ Just open your `.gitconfig` and add the content of the `.gitconfig` file from th
 
 ## Usage
 For example, here is a widely used series of command :
+```bash
    $ git add *
    $ git commit -m "Something new" 
    $ git push
+```
 
 With Bullias, you could write : 
+```bash
    $ git ass *
    $ git vomit -m "Something new"
    $ git poop
+```
 
 ## Index
 
