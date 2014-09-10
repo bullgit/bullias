@@ -2,8 +2,21 @@ bullias
 =======
 A collection of git command alias for gitches.
 
-# How to ?
-Just open `.gitconfig`
+## How to ?
+Just open your `.gitconfig` and add the content of the `.gitconfig` file from this repo, under `[alias]`
+
+## Usage
+For example, here is a widely used series of command :
+   $ git add *
+   $ git commit -m "Something new" 
+   $ git push
+
+With Bullias, you could write : 
+   $ git ass *
+   $ git vomit -m "Something new"
+   $ git poop
+
+## Index
 
 A list of aliases for gitches
 
