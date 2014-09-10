@@ -24,25 +24,25 @@ With Bullias, you could write :
 
 A list of aliases for gitches
 
-| Bullias  | Git Command |
-| -------- |:-----------:|
-| ass      | add         |
-| suck     | pull        |
-| poop     | push        |
-| trees    | branch	    |
-| fuckoff  | checkout    |
-| dolly    | clone       |
-| vomit    | commit      |
-| look     | diff        |
-| stole    | fetch       |
-| comeon   | init        |
-| showme   | log         |
-| stick    | merge       |
-| getout   | mv          |
-| takeit   | rebase      |
-| cleandat | reset       |
-| forkyou  | rm          |
-| rapist   | show        |
-| speak    | status      |
+| Bullias  | Git Command | Usage                   |
+| -------- |-------------|:-----------------------:|
+| ass      | add         | `$ git ass <value>`     |
+| suck     | pull        | `$ git suck <value>`    |
+| poop     | push        | `$ git poop <value>`    |
+| trees    | branch	    | `$ git trees <value>`   |
+| fuckoff  | checkout    | `$ git fuckoff <value>` |
+| dolly    | clone       | `$ git dolly <value>`   |
+| vomit    | commit      | `$ git vomit <value>`   |
+| look     | diff        | `$ git look <value>`    |
+| stole    | fetch       | `$ git stole <value>`   |
+| comeon   | init        | `$ git comeon <value>`  |
+| showme   | log         | `$ git showme <value>`  |
+| stick    | merge       | `$ git stick <value>`   |
+| getout   | mv          | `$ git getout <value>`  |
+| takeit   | rebase      | `$ git takeit <value>`  |
+| cleandat | reset       | `$ git cleardat <value>`|
+| forkyou  | rm          | `$ git forkyou <value>` |
+| rapist   | show        | `$ git rapist <value>`  |
+| speak    | status      | `$ git speak <value>`   |
 
 
