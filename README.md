@@ -42,7 +42,7 @@ A list of aliases for gitches
 | takeit     | rebase      | `$ git takeit <value>`     |
 | cleandat   | reset       | `$ git cleardat <value>`   |
 | forkyou    | rm          | `$ git forkyou <value>`    |
-| rapist     | show        | `$ git rapist <value>`     |
+| strip      | show        | `$ git strip <value>`      |
 | speak      | status      | `$ git speak <value>`      |
 | whodidthis | blame       | `$ git whodidthis <value>` |
 | cheat      | gui         | `$git cheat`               |
